@@ -26,10 +26,6 @@ To use the calculator, follow these steps:
 6. Press the equal button (=) to display the result of the calculation on the screen.
 7. Press the clear button (C) to clear the calculator screen and start a new calculation.
 
-## Demo
-
-You can find a live demo of the calculator [here](http://127.0.0.1:5500/calculator/index.html).
-
 ## Screenshots
 
 ![image](https://github.com/atharvnaik07/LGMVIP-Web-Task_4-Calculator/assets/114814921/d1c46806-649c-4c84-9987-c81d82094f38)
