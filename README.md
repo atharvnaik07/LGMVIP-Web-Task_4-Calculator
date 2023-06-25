@@ -14,6 +14,24 @@ This repository contains the solution for the LGMVIP Web Task 4 - Calculator. It
 - CSS: Used for styling the web page and making it visually appealing.
 - JavaScript: Used for implementing the calculator logic and handling user interactions.
 
+## File Structure
+
+The project files are organized as follows:
+
+```
+LGMVIP-Web-Task_2-Enrollment_form/
+├── index.html
+├── css/
+│   └── style.css
+└── js/
+    └── script.js
+```
+
+- `index.html`: Contains the HTML structure of the Calculator.
+- `css/style.css`: Contains the CSS styles for the Calculator elements.
+- `js/script.js`: Contains the JavaScript code for interactivity. 
+
+
 ## Usage
 
 To use the calculator, follow these steps:
