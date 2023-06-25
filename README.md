@@ -19,7 +19,7 @@ This repository contains the solution for the LGMVIP Web Task 4 - Calculator. It
 The project files are organized as follows:
 
 ```
-LGMVIP-Web-Task_2-Enrollment_form/
+LGMVIP-Web-Task_4-Calculator/
 ├── index.html
 ├── css/
 │   └── style.css
